@@ -133,14 +133,6 @@
         </interface>
     </hal>
     <hal format="aidl" optional="true">
-        <name>vendor.samsung.hardware.hyper</name>
-        <version>2</version>
-        <interface>
-            <name>ISehHyPer</name>
-            <instance>default</instance>
-        </interface>
-    </hal>
-    <hal format="aidl" optional="true">
         <name>android.hardware.biometrics.fingerprint</name>
         <version>2</version>
         <interface>

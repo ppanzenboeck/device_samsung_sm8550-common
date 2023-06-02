@@ -579,6 +579,12 @@
         <boolean name="carrier_volte_available_bool" value="true" />
     </carrier_config>
     <carrier_config mcc="405" mnc="840">
+        <!-- PA: Do not allow 5G NSA on Jio --> 
+        <int-array name="carrier_nr_availabilities_int_array" num="1"> 
+            <item value="2" /> 
+        </int-array>
+        <!-- PA: Enable VoNR on Jio -->
+        <boolean name="vonr_enabled_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="editable_wfc_mode_bool" value="false" />
@@ -609,6 +615,12 @@
         <boolean name="carrier_supports_multianchor_conference" value="true" />
     </carrier_config>
     <carrier_config mcc="405" mnc="854">
+        <!-- PA: Do not allow 5G NSA on Jio --> 
+        <int-array name="carrier_nr_availabilities_int_array" num="1"> 
+            <item value="2" /> 
+        </int-array>
+        <!-- PA: Enable VoNR on Jio -->
+        <boolean name="vonr_enabled_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="editable_wfc_mode_bool" value="false" />
@@ -639,6 +651,12 @@
         <boolean name="carrier_supports_multianchor_conference" value="true" />
     </carrier_config>
     <carrier_config mcc="405" mnc="855">
+        <!-- PA: Do not allow 5G NSA on Jio --> 
+        <int-array name="carrier_nr_availabilities_int_array" num="1"> 
+            <item value="2" /> 
+        </int-array>
+        <!-- PA: Enable VoNR on Jio -->
+        <boolean name="vonr_enabled_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="editable_wfc_mode_bool" value="false" />
@@ -669,6 +687,12 @@
         <boolean name="carrier_supports_multianchor_conference" value="true" />
     </carrier_config>
     <carrier_config mcc="405" mnc="856">
+        <!-- PA: Do not allow 5G NSA on Jio --> 
+        <int-array name="carrier_nr_availabilities_int_array" num="1"> 
+            <item value="2" /> 
+        </int-array>
+        <!-- PA: Enable VoNR on Jio -->
+        <boolean name="vonr_enabled_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="editable_wfc_mode_bool" value="false" />
@@ -699,6 +723,12 @@
         <boolean name="carrier_supports_multianchor_conference" value="true" />
     </carrier_config>
     <carrier_config mcc="405" mnc="857">
+        <!-- PA: Do not allow 5G NSA on Jio --> 
+        <int-array name="carrier_nr_availabilities_int_array" num="1"> 
+            <item value="2" /> 
+        </int-array>
+        <!-- PA: Enable VoNR on Jio -->
+        <boolean name="vonr_enabled_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="editable_wfc_mode_bool" value="false" />
@@ -729,6 +759,12 @@
         <boolean name="carrier_supports_multianchor_conference" value="true" />
     </carrier_config>
     <carrier_config mcc="405" mnc="858">
+        <!-- PA: Do not allow 5G NSA on Jio --> 
+        <int-array name="carrier_nr_availabilities_int_array" num="1"> 
+            <item value="2" /> 
+        </int-array>
+        <!-- PA: Enable VoNR on Jio -->
+        <boolean name="vonr_enabled_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="editable_wfc_mode_bool" value="false" />
@@ -759,6 +795,12 @@
         <boolean name="carrier_supports_multianchor_conference" value="true" />
     </carrier_config>
     <carrier_config mcc="405" mnc="859">
+        <!-- PA: Do not allow 5G NSA on Jio --> 
+        <int-array name="carrier_nr_availabilities_int_array" num="1"> 
+            <item value="2" /> 
+        </int-array>
+        <!-- PA: Enable VoNR on Jio -->
+        <boolean name="vonr_enabled_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="editable_wfc_mode_bool" value="false" />
@@ -789,6 +831,12 @@
         <boolean name="carrier_supports_multianchor_conference" value="true" />
     </carrier_config>
     <carrier_config mcc="405" mnc="860">
+        <!-- PA: Do not allow 5G NSA on Jio --> 
+        <int-array name="carrier_nr_availabilities_int_array" num="1"> 
+            <item value="2" /> 
+        </int-array>
+        <!-- PA: Enable VoNR on Jio -->
+        <boolean name="vonr_enabled_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="editable_wfc_mode_bool" value="false" />
@@ -819,6 +867,12 @@
         <boolean name="carrier_supports_multianchor_conference" value="true" />
     </carrier_config>
     <carrier_config mcc="405" mnc="861">
+        <!-- PA: Do not allow 5G NSA on Jio --> 
+        <int-array name="carrier_nr_availabilities_int_array" num="1"> 
+            <item value="2" /> 
+        </int-array>
+        <!-- PA: Enable VoNR on Jio -->
+        <boolean name="vonr_enabled_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="editable_wfc_mode_bool" value="false" />
@@ -849,6 +903,12 @@
         <boolean name="carrier_supports_multianchor_conference" value="true" />
     </carrier_config>
     <carrier_config mcc="405" mnc="862">
+        <!-- PA: Do not allow 5G NSA on Jio --> 
+        <int-array name="carrier_nr_availabilities_int_array" num="1"> 
+            <item value="2" /> 
+        </int-array>
+        <!-- PA: Enable VoNR on Jio -->
+        <boolean name="vonr_enabled_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="editable_wfc_mode_bool" value="false" />
@@ -879,6 +939,12 @@
         <boolean name="carrier_supports_multianchor_conference" value="true" />
     </carrier_config>
     <carrier_config mcc="405" mnc="863">
+        <!-- PA: Do not allow 5G NSA on Jio --> 
+        <int-array name="carrier_nr_availabilities_int_array" num="1"> 
+            <item value="2" /> 
+        </int-array>
+        <!-- PA: Enable VoNR on Jio -->
+        <boolean name="vonr_enabled_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="editable_wfc_mode_bool" value="false" />
@@ -909,6 +975,12 @@
         <boolean name="carrier_supports_multianchor_conference" value="true" />
     </carrier_config>
     <carrier_config mcc="405" mnc="864">
+        <!-- PA: Do not allow 5G NSA on Jio --> 
+        <int-array name="carrier_nr_availabilities_int_array" num="1"> 
+            <item value="2" /> 
+        </int-array>
+        <!-- PA: Enable VoNR on Jio -->
+        <boolean name="vonr_enabled_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="editable_wfc_mode_bool" value="false" />
@@ -939,6 +1011,12 @@
         <boolean name="carrier_supports_multianchor_conference" value="true" />
     </carrier_config>
     <carrier_config mcc="405" mnc="865">
+        <!-- PA: Do not allow 5G NSA on Jio --> 
+        <int-array name="carrier_nr_availabilities_int_array" num="1"> 
+            <item value="2" /> 
+        </int-array>
+        <!-- PA: Enable VoNR on Jio -->
+        <boolean name="vonr_enabled_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="editable_wfc_mode_bool" value="false" />
@@ -969,6 +1047,12 @@
         <boolean name="carrier_supports_multianchor_conference" value="true" />
     </carrier_config>
     <carrier_config mcc="405" mnc="866">
+        <!-- PA: Do not allow 5G NSA on Jio --> 
+        <int-array name="carrier_nr_availabilities_int_array" num="1"> 
+            <item value="2" /> 
+        </int-array>
+        <!-- PA: Enable VoNR on Jio -->
+        <boolean name="vonr_enabled_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="editable_wfc_mode_bool" value="false" />
@@ -999,6 +1083,12 @@
         <boolean name="carrier_supports_multianchor_conference" value="true" />
     </carrier_config>
     <carrier_config mcc="405" mnc="867">
+        <!-- PA: Do not allow 5G NSA on Jio --> 
+        <int-array name="carrier_nr_availabilities_int_array" num="1"> 
+            <item value="2" /> 
+        </int-array>
+        <!-- PA: Enable VoNR on Jio -->
+        <boolean name="vonr_enabled_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="editable_wfc_mode_bool" value="false" />
@@ -1029,6 +1119,12 @@
         <boolean name="carrier_supports_multianchor_conference" value="true" />
     </carrier_config>
     <carrier_config mcc="405" mnc="868">
+        <!-- PA: Do not allow 5G NSA on Jio --> 
+        <int-array name="carrier_nr_availabilities_int_array" num="1"> 
+            <item value="2" /> 
+        </int-array>
+        <!-- PA: Enable VoNR on Jio -->
+        <boolean name="vonr_enabled_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="editable_wfc_mode_bool" value="false" />
@@ -1059,6 +1155,12 @@
         <boolean name="carrier_supports_multianchor_conference" value="true" />
     </carrier_config>
     <carrier_config mcc="405" mnc="869">
+        <!-- PA: Do not allow 5G NSA on Jio --> 
+        <int-array name="carrier_nr_availabilities_int_array" num="1"> 
+            <item value="2" /> 
+        </int-array>
+        <!-- PA: Enable VoNR on Jio -->
+        <boolean name="vonr_enabled_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="editable_wfc_mode_bool" value="false" />
@@ -1089,6 +1191,12 @@
         <boolean name="carrier_supports_multianchor_conference" value="true" />
     </carrier_config>
     <carrier_config mcc="405" mnc="870">
+        <!-- PA: Do not allow 5G NSA on Jio --> 
+        <int-array name="carrier_nr_availabilities_int_array" num="1"> 
+            <item value="2" /> 
+        </int-array>
+        <!-- PA: Enable VoNR on Jio -->
+        <boolean name="vonr_enabled_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="editable_wfc_mode_bool" value="false" />
@@ -1119,6 +1227,12 @@
         <boolean name="carrier_supports_multianchor_conference" value="true" />
     </carrier_config>
     <carrier_config mcc="405" mnc="871">
+        <!-- PA: Do not allow 5G NSA on Jio --> 
+        <int-array name="carrier_nr_availabilities_int_array" num="1"> 
+            <item value="2" /> 
+        </int-array>
+        <!-- PA: Enable VoNR on Jio -->
+        <boolean name="vonr_enabled_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="editable_wfc_mode_bool" value="false" />
@@ -1149,6 +1263,12 @@
         <boolean name="carrier_supports_multianchor_conference" value="true" />
     </carrier_config>
     <carrier_config mcc="405" mnc="872">
+        <!-- PA: Do not allow 5G NSA on Jio --> 
+        <int-array name="carrier_nr_availabilities_int_array" num="1"> 
+            <item value="2" /> 
+        </int-array>
+        <!-- PA: Enable VoNR on Jio -->
+        <boolean name="vonr_enabled_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="editable_wfc_mode_bool" value="false" />
@@ -1179,6 +1299,12 @@
         <boolean name="carrier_supports_multianchor_conference" value="true" />
     </carrier_config>
     <carrier_config mcc="405" mnc="873">
+        <!-- PA: Do not allow 5G NSA on Jio --> 
+        <int-array name="carrier_nr_availabilities_int_array" num="1"> 
+            <item value="2" /> 
+        </int-array>
+        <!-- PA: Enable VoNR on Jio -->
+        <boolean name="vonr_enabled_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="editable_wfc_mode_bool" value="false" />
@@ -1209,6 +1335,12 @@
         <boolean name="carrier_supports_multianchor_conference" value="true" />
     </carrier_config>
     <carrier_config mcc="405" mnc="874">
+        <!-- PA: Do not allow 5G NSA on Jio --> 
+        <int-array name="carrier_nr_availabilities_int_array" num="1"> 
+            <item value="2" /> 
+        </int-array>
+        <!-- PA: Enable VoNR on Jio -->
+        <boolean name="vonr_enabled_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="editable_wfc_mode_bool" value="false" />

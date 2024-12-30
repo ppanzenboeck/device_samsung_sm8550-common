@@ -19,6 +19,13 @@
             <instance>default</instance>
         </interface>
     </hal>
+    <hal format="aidl" optional="true">
+        <name>vendor.samsung.hardware.bluetooth.audio</name>
+        <interface>
+            <name>ISehBluetoothAudioProviderFactory</name>
+            <instance>default</instance>
+        </interface>
+    </hal>
     <hal format="hidl" optional="true">
         <name>vendor.samsung.hardware.bluetooth.a2dpsink</name>
         <version>1.0</version>

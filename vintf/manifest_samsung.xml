@@ -23,6 +23,13 @@
         </interface>
         <fqname>@4.0::IKeymasterDevice/strongbox</fqname>
     </hal>
+    <hal format="aidl">
+        <name>vendor.samsung.hardware.bluetooth.audio</name>
+        <interface>
+            <name>ISehBluetoothAudioProviderFactory</name>
+            <instance>default</instance>
+        </interface>
+    </hal>
     <hal format="hidl">
         <name>vendor.samsung.hardware.bluetooth</name>
         <transport>hwbinder</transport>

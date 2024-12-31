@@ -9,7 +9,7 @@ $(call soong_config_set,rfs,mpss_firmware_symlink_target,firmware_modem)
 $(call inherit-product, hardware/qcom-caf/common/common.mk)
 
 # Derp Flags
-#DERP_BUILDTYPE=Official
+DERP_BUILDTYPE=Official
 DERP_VERSION_APPEND_TIME_OF_DAY=true
 EXTRA_UDFPS_ICONS=true
 #TARGET_NOT_USES_BLUR=true

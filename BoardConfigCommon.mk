@@ -157,7 +157,6 @@ TARGET_RELEASETOOLS_EXTENSIONS := $(COMMON_PATH)
 
 # RIL
 ENABLE_VENDOR_RIL_SERVICE := true
-SOONG_CONFIG_rfs_mpss_firmware_symlink_target := firmware_modem
 
 # Security
 BOOT_SECURITY_PATCH := 2024-12-01

@@ -365,3 +365,6 @@ PRODUCT_COPY_FILES += \
 
 # Inherit from the proprietary files makefile.
 $(call inherit-product, vendor/samsung/sm8550-common/sm8550-common-vendor.mk)
+
+DERPFEST_BUILD_TYPE := Community
+

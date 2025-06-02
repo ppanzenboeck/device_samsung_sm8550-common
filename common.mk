@@ -368,3 +368,6 @@ $(call inherit-product, vendor/samsung/sm8550-common/sm8550-common-vendor.mk)
 
 DERPFEST_BUILD_TYPE := Community
 
+# Remove Packages
+PRODUCT_PACKAGES += \
+    RemovePackages
